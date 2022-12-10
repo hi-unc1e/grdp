@@ -2,7 +2,7 @@ package grdp
 
 import (
 	"fmt"
-	"grdp/glog"
+	"github.com/hi-unc1e/grdp/glog"
 	"testing"
 )
 

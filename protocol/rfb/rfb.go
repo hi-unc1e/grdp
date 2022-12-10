@@ -12,9 +12,9 @@ import (
 
 	"github.com/lunixbochs/struc"
 
-	"grdp/core"
-	"grdp/emission"
-	"grdp/glog"
+	"github.com/hi-unc1e/grdp/core"
+	"github.com/hi-unc1e/grdp/emission"
+	"github.com/hi-unc1e/grdp/glog"
 )
 
 // ProtocolVersion

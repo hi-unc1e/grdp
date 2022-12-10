@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"grdp/core"
+	"github.com/hi-unc1e/grdp/core"
 )
 
 const (

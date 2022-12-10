@@ -14,14 +14,13 @@ import (
 
 	"github.com/lunixbochs/struc"
 
-	"grdp/protocol/nla"
-
-	"grdp/core"
-	"grdp/emission"
-	"grdp/glog"
-	"grdp/protocol/lic"
-	"grdp/protocol/t125"
-	"grdp/protocol/t125/gcc"
+	"github.com/hi-unc1e/grdp/core"
+	"github.com/hi-unc1e/grdp/emission"
+	"github.com/hi-unc1e/grdp/glog"
+	"github.com/hi-unc1e/grdp/protocol/lic"
+	"github.com/hi-unc1e/grdp/protocol/nla"
+	"github.com/hi-unc1e/grdp/protocol/t125"
+	"github.com/hi-unc1e/grdp/protocol/t125/gcc"
 )
 
 /**

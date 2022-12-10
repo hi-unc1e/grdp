@@ -6,8 +6,8 @@ import (
 	"crypto/rc4"
 	"strings"
 
+	"github.com/hi-unc1e/grdp/core"
 	"golang.org/x/crypto/md4"
-	"grdp/core"
 )
 
 func MD4(data []byte) []byte {

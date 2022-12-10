@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"grdp/core"
+	"github.com/hi-unc1e/grdp/core"
 )
 
 func TestWriteUInt16LE(t *testing.T) {

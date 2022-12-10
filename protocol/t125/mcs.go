@@ -8,12 +8,12 @@ import (
 	"io"
 	"reflect"
 
-	"grdp/core"
-	"grdp/emission"
-	"grdp/glog"
-	"grdp/protocol/t125/ber"
-	"grdp/protocol/t125/gcc"
-	"grdp/protocol/t125/per"
+	"github.com/hi-unc1e/grdp/core"
+	"github.com/hi-unc1e/grdp/emission"
+	"github.com/hi-unc1e/grdp/glog"
+	"github.com/hi-unc1e/grdp/protocol/t125/ber"
+	"github.com/hi-unc1e/grdp/protocol/t125/gcc"
+	"github.com/hi-unc1e/grdp/protocol/t125/per"
 )
 
 // take idea from https://github.com/Madnikulin50/gordp
