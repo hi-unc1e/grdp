@@ -193,7 +193,6 @@ func (g *Client) LoginForRDP(domain, user, pwd string) error {
 	if updateCount > 50 {
 		return nil
 	}
-	err = errors.New("login failed")
 	return err
 }
 
