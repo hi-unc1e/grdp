@@ -10,15 +10,15 @@ import (
 	"sync"
 	"time"
 
-	"grdp/core"
-	"grdp/glog"
-	"grdp/protocol/nla"
-	"grdp/protocol/pdu"
-	"grdp/protocol/rfb"
-	"grdp/protocol/sec"
-	"grdp/protocol/t125"
-	"grdp/protocol/tpkt"
-	"grdp/protocol/x224"
+	"github.com/hi-unc1e/grdp/core"
+	"github.com/hi-unc1e/grdp/glog"
+	"github.com/hi-unc1e/grdp/protocol/nla"
+	"github.com/hi-unc1e/grdp/protocol/pdu"
+	"github.com/hi-unc1e/grdp/protocol/rfb"
+	"github.com/hi-unc1e/grdp/protocol/sec"
+	"github.com/hi-unc1e/grdp/protocol/t125"
+	"github.com/hi-unc1e/grdp/protocol/tpkt"
+	"github.com/hi-unc1e/grdp/protocol/x224"
 )
 
 const (
