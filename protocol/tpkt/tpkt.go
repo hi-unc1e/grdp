@@ -5,10 +5,10 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"grdp/core"
-	"grdp/emission"
-	"grdp/glog"
-	"grdp/protocol/nla"
+	"github.com/hi-unc1e/grdp/core"
+	"github.com/hi-unc1e/grdp/emission"
+	"github.com/hi-unc1e/grdp/glog"
+	"github.com/hi-unc1e/grdp/protocol/nla"
 )
 
 // take idea from https://github.com/Madnikulin50/gordp

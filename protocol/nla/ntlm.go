@@ -8,9 +8,9 @@ import (
 	"encoding/hex"
 	"time"
 
+	"github.com/hi-unc1e/grdp/core"
+	"github.com/hi-unc1e/grdp/glog"
 	"github.com/lunixbochs/struc"
-	"grdp/core"
-	"grdp/glog"
 )
 
 const (

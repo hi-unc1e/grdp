@@ -3,8 +3,8 @@ package pdu
 import (
 	"bytes"
 
-	"grdp/core"
-	"grdp/glog"
+	"github.com/hi-unc1e/grdp/core"
+	"github.com/hi-unc1e/grdp/glog"
 )
 
 /**
